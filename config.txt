@@ -1,6 +1,6 @@
-﻿token=NTMzNjQxMTEyMTg3OTYxMzc0.DxuCzQ.cSdyvvkPUVK1LgN3-WWK2lXXHIw
-owner=264706943854051329 
-prefix=/
-game=
+﻿token= NTMzNjQxMTEyMTg3OTYxMzc0.DxuCzQ.cSdyvvkPUVK1LgN3-WWK2lXXHIw
+owner= 264706943854051329 
+prefix= /
+game= Minecraft
 stayinchannel=true
 songinstatus=false 
