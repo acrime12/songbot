@@ -1,6 +1,6 @@
 token=NTMzNjQxMTEyMTg3OTYxMzc0.DxuGSw.OYZ6p5qAPCMDy1TdmO6Xy9yNNSg
 owner=264706943854051329 
 prefix=/
-game=.
+game=#CrossFire Is The Best
 stayinchannel=true
 songinstatus=false 
